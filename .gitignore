@@ -81,4 +81,4 @@ coverage
 celerybeat-schedule
 celerybeat-schedule-wal
 
-shop.db
+*.db
